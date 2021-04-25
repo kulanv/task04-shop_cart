@@ -1,2 +1,2 @@
-# todo
-todo list
+# shop-cart
+functionality for shop-cart
